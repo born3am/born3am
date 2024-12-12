@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Pedro Silva  
+# 👋 Hi, I'm Pedró Sìlvá  
 
-I'm a **Tech & Product Support Engineer** based in Berlin. I am a friendly and adaptable team player, I like to combine my technical expertise and people interaction strengths in a dynamic, impact-driven environment.
+I'm a **Tech & Product Support Engineer** based in Berlin. I am a friendly and adaptable team player, enjoying to combine my technical expertise and people interaction strengths in a dynamic, impact-driven environment.
 
 
 ---
