@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pedro Silva  
 
-I'm a **Tech & Product Support Engineer** based in Berlin. I am a friendly and adaptable team player dedicated to problem-solving and transforming innovative concepts into practical tech solutions. Skilled in technical troubleshooting, I like to combine my technical expertise and people interaction strengths in a dynamic, impact-driven environment.
+I'm a **Tech & Product Support Engineer** based in Berlin. I am a friendly and adaptable team player, I like to combine my technical expertise and people interaction strengths in a dynamic, impact-driven environment.
 
 
 ---
@@ -13,21 +13,28 @@ I'm a **Tech & Product Support Engineer** based in Berlin. I am a friendly and a
 
 ## 📈 Stats  
 
-<a href="https://github.com/born3am">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=born3am&show_icons=true&theme=radical&hide=contribs&show=prs_merged_percentage&include_all_commits=true" />
-</a>
-<a href="https://github.com/born3am">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born3am&hide_progress=false&layout=compact" />
-</a>
+  <a href="https://github.com/born3am" style="flex: 1;">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=born3am&show_icons=true&theme=radical&hide=contribs&show=prs_merged_percentage&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/born3am" style="flex: 1;">
+    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born3am&hide_progress=false&layout=compact" />
+  </a>
+
 
 ---
 
 ## 📫 Connect with Me:  
-- [LinkedIn](https://www.linkedin.com/in/pedrosilva)  
-- [GitHub](https://github.com/born3am)  
-- [Personal Website](https://pedrosilva.dev)  
+- <a href="https://www.linkedin.com/in/pedro-silva-berlin" target="_blank">LinkedIn</a>  
 
 ---
 
-### 🌱 Fun Fact:  
-I'm fluent in **English**, intermediate in **German** and **Spanish**, and I aim to use technology to make an impact in both professional and personal spheres.
+### 🌍 Multilingual Abilities:
+
+| Language   | Level  |
+|------------|--------------|
+| 🇬🇧 English    | Fluent       |
+| 🇧🇷 Portuguese | Fluent       |
+| 🇩🇪 German     | Intermediate |
+| 🇪🇸 Spanish    | Intermediate |
+
+
