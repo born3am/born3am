@@ -16,16 +16,19 @@ I'm a **Tech & Product Support Engineer** based in Berlin. I am a friendly and a
 ## 📈 Stats[^1] in Public Repositories
 *Stats below updated every 6 hours:*
 
-
+<div align="center">
   <a href="https://github.com/born3am">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=born3am&show_icons=true&theme=radical&hide=contribs&show=prs_merged_percentage&include_all_commits=true" />
+      <img height=160 src="https://github-readme-stats.vercel.app/api?username=born3am&show_icons=true&theme=radical&hide=contribs&show=prs_merged_percentage&include_all_commits=true" />
   </a>
   <a href="https://github.com/born3am">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=born3am&hide_progress=false&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,scss" />
+      <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=born3am&hide_progress=false&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide=css,scss" />
   </a>
-  <a href="https://github.com/born3am">
-    <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=born3am" />
-  </a>
+</div>
+<div align="center">
+    <a href="https://github.com/born3am">
+        <img height=180 src="https://github-readme-stats.vercel.app/api/wakatime?username=born3am&layout=compact&" />
+    </a>
+</div>
 
 
 ---
